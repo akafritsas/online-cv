@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Καφρίτσας Σπυρίδων
+    name: Spiridon Kafritsas
     tagline: Full Stack Developer
     avatar: 1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -20,31 +20,16 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 
-    Ξένες γλώσσες:
-      - idiom: Αγγλικά
+    Language:
+      - idiom: English
   
   
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-Σπουδές:
-    - degree: Σχολή Πλοιάρχων
-      university: ΑΕΝ Ηπείρου
+
+Studies:
+    - degree: SXOLI PLOIARXON
+      university: AEN HPEIROU
       time: 2000 - 2004
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
     
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
