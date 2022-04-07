@@ -15,18 +15,15 @@ sidebar:
     email: skafritsas@gmail.com
     phone: 6906228129
     citizenship:
-    website: n/a
    
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: Αγγλικά
-      - idiom: Ελληνικά
-  
-  
-  
 
+    Ξένες γλώσσες:
+      - idiom: Αγγλικά
+  
+  
 career-profile:
     title: Career Profile
     summary: |
@@ -36,7 +33,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
+Σπουδές:
     - degree: Σχολή Πλοιάρχων
       university: ΑΕΝ Ηπείρου
       time: 2000 - 2004
